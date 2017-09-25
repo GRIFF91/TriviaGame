@@ -1,0 +1,13 @@
+body {
+	background: purple;
+}
+
+.page-header {
+	color: teal;
+	font-family: sans-serif;
+}
+
+.questions {
+	background: teal;
+	color: white;
+}

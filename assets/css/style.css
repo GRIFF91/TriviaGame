@@ -10,4 +10,8 @@ body {
 .questions {
 	background: teal;
 	color: white;
+	margin-bottom: 80px;
+	padding: 10px;
+	margin-left: 100px;
+	margin-right: 100px;
 }

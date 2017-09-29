@@ -4,18 +4,14 @@
 
 body {
 	background: #00ffff;
-	font-family: sans-serif;
 }
 
-.qestion {
+#quiz {
+	font-family: sans-serif;
 	background: #4da6ff;
 	margin-left: 100px;
 	margin-right: 100px;
 	border-radius: 20px;
-}
-
-h3 {
-	padding-top: 10px;
 }
 
 button {

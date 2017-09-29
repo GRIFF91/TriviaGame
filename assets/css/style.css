@@ -1,21 +1,23 @@
-body {
-	background: purple;
+.jumbotron {
+	background: #4da6ff;
 }
 
-.page-header {
-	color: teal;
+body {
+	background: #00ffff;
 	font-family: sans-serif;
 }
 
-.questions {
-	background: teal;
-	color: white;
-	margin-bottom: 60px;
-	padding: 10px;
+.qestion {
+	background: #4da6ff;
 	margin-left: 100px;
 	margin-right: 100px;
+	border-radius: 20px;
 }
 
-.btn {
-	margin-bottom: 40px;
+h3 {
+	padding-top: 10px;
+}
+
+button {
+	margin: 40px;
 }
